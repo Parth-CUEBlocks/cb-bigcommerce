@@ -1,0 +1,3 @@
+{
+  "components/common/custom-logo": "<a href=\"{{urls.home}}\" class=\"header-logo__link\">\n    <img src=\"{{getImage settings.store_logo.image 'logo_size'}}\" class=\"logo_element normal_logo\">\n    <!-- <img src=\"/assets/img/jiva-light.png\" class=\"logo_element transparent_logo\"> -->\n</a>\n"
+}
